@@ -22,13 +22,46 @@
   </body>
 <!--image--!>
 <img src="https://images.unsplash.com/photo-1496692052106-d37cb66ab80c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" width=300px;>
-<!--audio--!>
-<audio controls>
-  <source src="https://pixabay.com/music/beats-teasertittle-music-kamalesh-siddu-14012/" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-
-
+<!--tables--!>
+<table border="1">
+    <thead>
+         <tr>
+           <th>Name</th> 
+           <th>Phone</th> 
+           <th>Email</th> 
+         </tr>
+    </thead>
+    <tbody>
+         <td>Smiling Writer</td>
+         <td>5625762667</td>
+         <td>sowmiyas19052001@gmail.com</td>
+    </tbody>
+</table>
+<!--forms--!>
+<form>
+    <input type="button">
+<input type="checkbox">
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="text">
+<input type="time">
+<input type="url">
+<input type="week">
+</form>
 <!---
 Sowmiya-Selvam/Sowmiya-Selvam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
