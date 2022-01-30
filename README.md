@@ -37,30 +37,8 @@
          <td>sowmiyas19052001@gmail.com</td>
     </tbody>
 </table>
-<!--forms--!>
 <form>
-    <input type="button">
-<input type="checkbox">
-<input type="color">
-<input type="date">
-<input type="datetime-local">
-<input type="email">
-<input type="file">
-<input type="hidden">
-<input type="image">
-<input type="month">
-<input type="number">
-<input type="password">
-<input type="radio">
-<input type="range">
-<input type="reset">
-<input type="search">
-<input type="submit">
-<input type="tel">
-<input type="text">
-<input type="time">
-<input type="url">
-<input type="week">
+    <input type="email" name="user_email">
 </form>
 <!---
 Sowmiya-Selvam/Sowmiya-Selvam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
